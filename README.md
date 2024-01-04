@@ -42,12 +42,12 @@ Here are some ideas to get you started:
 
 ## More About Me!
 
-#### - 🔭 I am currently looking learn and grow my coding skills with new projects and opportunities
-#### - ⚡ My current personal Python project has to do with stylometry
-#### - 🌱 I am currently strengthening my R skills
-#### - 📫 How to reach me: [Email](mailto:wertz.nicholas.42@gmail.com) or [LinkedIn](https://www.linkedin.com/in/nicholas-wertz-345082b9/)
-#### - ⚡ Check out my [blog posts](https://medium.com/@wertz.nicholas.42)
-#### - 😄 Pronouns: He/Him
+### - 🔭 I am currently looking learn and grow my coding skills with new projects and opportunities
+### - ⚡ My current personal Python project has to do with stylometry
+### - 🌱 I am currently strengthening my R skills
+### - 📫 How to reach me: [Email](mailto:wertz.nicholas.42@gmail.com) or [LinkedIn](https://www.linkedin.com/in/nicholas-wertz-345082b9/)
+### - ⚡ Check out my [blog posts](https://medium.com/@wertz.nicholas.42)
+### - 😄 Pronouns: He/Him
 
 <br/>
 
